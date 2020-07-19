@@ -18,6 +18,7 @@ public class GithubTests {
     public void test2() {
         int a = 10;
         System.out.println(a+10);
+        System.out.println("======");
     }
 
 }
