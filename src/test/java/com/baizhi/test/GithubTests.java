@@ -19,6 +19,8 @@ public class GithubTests {
         int a = 10;
         System.out.println(a+10);
         System.out.println("======");
+        int b = 20;
+        System.out.println(a+b);
     }
 
 }
